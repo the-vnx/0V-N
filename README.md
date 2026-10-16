@@ -1,18 +1,146 @@
-# 💫 About Me:
-👨‍💻 About Me<br><br>Hey, I'm Vishnu Narayanan (VN) — a Cybersecurity Researcher passionate about offensive security, vulnerability assessment, and penetration testing.<br><br>🎯 Always learning, experimenting, and turning security research into practical solutions.<br><br>Think like an attacker. Build like a developer. Defend like a professional.
 
+<!-- ═══════════════ VNX | GITHUB PROFILE ═══════════════ -->
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vnx.py) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=0V-N&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=0V-N&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=0V-N&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:102b18,100:39ff14&height=200&section=header&text=VISHNU%20NARAYANAN&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=CYBERSECURITY%20RESEARCHER%20%7C%20VNX&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="VNX profile banner"/>
+
+<a href="https://github.com/0V-N">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Cybersecurity+Researcher;Vulnerability+Assessment+%26+Penetration+Testing;Python+Security+Tool+Developer;CTF+%26+Security+Lab+Builder;Think+Like+An+Attacker." alt="Typing introduction"/>
+</a>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0V--N-0d1117?style=for-the-badge&logo=github&logoColor=39ff14)](https://github.com/0V-N)
+[![Instagram](https://img.shields.io/badge/Instagram-vnx.py-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/vnx.py)
+[![Portfolio](https://img.shields.io/badge/Brand-VNX-0d1117?style=for-the-badge&logo=vercel&logoColor=39ff14)](https://thevnx.com)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=0V-N&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `whoami` — About Me
+
+```bash
+Name      : Vishnu Narayanan (VN)
+Alias     : VNX
+Role      : Cybersecurity Researcher
+Focus     : Offensive Security & VAPT
+Interests : Python, Security Automation, CTFs
+Mission   : Learn. Research. Build. Secure.
+```
+
+I'm a cybersecurity researcher passionate about understanding how systems fail, discovering vulnerabilities, and building practical security solutions.
+
+- 🔐 Exploring **Vulnerability Assessment and Penetration Testing (VAPT)**
+- 🌐 Interested in web application and network security
+- 🐍 Building Python tools and security automation workflows
+- 🧪 Creating hands-on cybersecurity labs and CTF challenges
+- 🐧 Working with Linux, Docker, and open-source security tools
+- 🚀 Building **VNX** — my cybersecurity identity and brand
+
+> **Think like an attacker. Build like a developer. Defend like a professional.**
+
+---
+
+## `./expertise` — Areas of Interest
+
+<div align="center">
+
+| 🔴 Offensive Security | 🌐 Application Security | ⚙️ Security Engineering |
+|:---:|:---:|:---:|
+| VAPT & Pentesting | Web Application Testing | Python Automation |
+| Reconnaissance | Authentication Testing | Docker Security Labs |
+| Vulnerability Research | API Security | CTF Development |
+| Network Security | OWASP Methodologies | Linux & Tooling |
+
+</div>
+
+---
+
+## `cat tech-stack.txt` — Technologies
+
+### Languages & Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,php,kotlin,bash,html,css&theme=dark" alt="Programming languages"/>
+
+</div>
+
+### Cybersecurity & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,nginx,wordpress,azure,aws,cloudflare&theme=dark" alt="Infrastructure and development tools"/>
+
+<br/><br/>
+
+![Nmap](https://img.shields.io/badge/Nmap-1679A7?style=flat-square&logo=linux&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-39FF14?style=flat-square&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+
+</div>
+
+---
+
+## `ls ./projects` — What I Build
+
+<div align="center">
+
+<a href="https://github.com/0V-N?tab=repositories">
+  <img src="https://img.shields.io/badge/01-Security%20Tools-0d1117?style=for-the-badge&logo=python&logoColor=39ff14" alt="Security tools"/>
+</a>
+<a href="https://github.com/0V-N?tab=repositories">
+  <img src="https://img.shields.io/badge/02-VAPT%20Labs-0d1117?style=for-the-badge&logo=kalilinux&logoColor=39ff14" alt="VAPT labs"/>
+</a>
+<a href="https://github.com/0V-N?tab=repositories">
+  <img src="https://img.shields.io/badge/03-CTF%20Challenges-0d1117?style=for-the-badge&logo=hackthebox&logoColor=39ff14" alt="CTF challenges"/>
+</a>
+
+</div>
+
+Explore my repositories for security experiments, automation projects, cybersecurity labs, and development work.
+
+**Have a project worth collaborating on?** Open an issue or reach out through my social links.
+
+---
+
+## `git status` — GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0V-N&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0V-N&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com/?user=0V-N&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## `./connect.sh`
+
+<div align="center">
+
+I'm always interested in cybersecurity research, open-source projects, and learning new techniques.
+
+[![Follow on GitHub](https://img.shields.io/badge/Follow-0V--N-39FF14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/0V-N)
+[![Connect on Instagram](https://img.shields.io/badge/Connect-vnx.py-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vnx.py)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=0V-N&style=for-the-badge&color=39ff14&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
+
+<br/><br/>
+
+**`ACCESS GRANTED // KEEP LEARNING. KEEP BUILDING.`**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,50:102b18,100:050505&height=100&section=footer" width="100%" alt="VNX footer banner"/>
+
+</div>
